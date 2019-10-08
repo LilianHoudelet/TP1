@@ -1,4 +1,5 @@
 chiisai niwatori ha doko desu ka ?
 
-Contributors : 
+Contributors:
+Valentin AUDRERIE
 Lilian
